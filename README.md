@@ -4,7 +4,7 @@
 単一のHTMLファイルだけで動作する、ローカル完結型の電子書籍・コミックリーダーです。  
 サーバーへの書籍アップロードは一切行わず、すべての書籍データ・しおり・メモ・設定をお使いの端末内（IndexedDB / localStorage）に保存します。
 
-- **Current Version**: `V4.5.0Beta`
+- **Current Version**: `V4.5.0RC1`
 - **Creator**: Kosa ([X: @SKosa_0](https://x.com/SKosa_0))
 
 ---
