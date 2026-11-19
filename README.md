@@ -4,7 +4,7 @@ BookReader は、EPUBの小説や画像コミック書庫を、ブラウザ上�
 
 - 製作者：Kosa
 - X：[@SKosa\_0](https://x.com/SKosa_0)
-- バージョン：V4\.5\.0 RC1
+- バージョン：V4\.5\.0
 - ライセンス：BookReader NonCommercial Attribution License 1\.1
 
 ## ダウンロード・起動
