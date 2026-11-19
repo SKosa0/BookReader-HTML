@@ -1,6 +1,4 @@
-# BookReader V4\.5\.0 RC1
-
-**初回公開リリース候補（First Public Release Candidate）**
+概要
 
 BookReader は、EPUBの小説や画像コミック書庫を、ブラウザ上で読むための単体HTML形式のリーダーです。HTMLファイルを開いて使用でき、通常の読書データや取り込んだ書籍ファイルは利用中の端末・ブラウザ内に保存されます。
 
